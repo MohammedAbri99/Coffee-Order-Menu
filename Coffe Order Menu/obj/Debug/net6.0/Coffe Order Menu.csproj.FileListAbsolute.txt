@@ -1,0 +1,14 @@
+C:\Users\Eng AbuFiras\Desktop\code Academy\Coffe Order Menu\Coffe Order Menu-sol\Coffe Order Menu\bin\Debug\net6.0\Coffe Order Menu.exe
+C:\Users\Eng AbuFiras\Desktop\code Academy\Coffe Order Menu\Coffe Order Menu-sol\Coffe Order Menu\bin\Debug\net6.0\Coffe Order Menu.deps.json
+C:\Users\Eng AbuFiras\Desktop\code Academy\Coffe Order Menu\Coffe Order Menu-sol\Coffe Order Menu\bin\Debug\net6.0\Coffe Order Menu.runtimeconfig.json
+C:\Users\Eng AbuFiras\Desktop\code Academy\Coffe Order Menu\Coffe Order Menu-sol\Coffe Order Menu\bin\Debug\net6.0\Coffe Order Menu.dll
+C:\Users\Eng AbuFiras\Desktop\code Academy\Coffe Order Menu\Coffe Order Menu-sol\Coffe Order Menu\bin\Debug\net6.0\Coffe Order Menu.pdb
+C:\Users\Eng AbuFiras\Desktop\code Academy\Coffe Order Menu\Coffe Order Menu-sol\Coffe Order Menu\obj\Debug\net6.0\Coffe Order Menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eng AbuFiras\Desktop\code Academy\Coffe Order Menu\Coffe Order Menu-sol\Coffe Order Menu\obj\Debug\net6.0\Coffe Order Menu.AssemblyInfoInputs.cache
+C:\Users\Eng AbuFiras\Desktop\code Academy\Coffe Order Menu\Coffe Order Menu-sol\Coffe Order Menu\obj\Debug\net6.0\Coffe Order Menu.AssemblyInfo.cs
+C:\Users\Eng AbuFiras\Desktop\code Academy\Coffe Order Menu\Coffe Order Menu-sol\Coffe Order Menu\obj\Debug\net6.0\Coffe Order Menu.csproj.CoreCompileInputs.cache
+C:\Users\Eng AbuFiras\Desktop\code Academy\Coffe Order Menu\Coffe Order Menu-sol\Coffe Order Menu\obj\Debug\net6.0\Coffe Order Menu.dll
+C:\Users\Eng AbuFiras\Desktop\code Academy\Coffe Order Menu\Coffe Order Menu-sol\Coffe Order Menu\obj\Debug\net6.0\refint\Coffe Order Menu.dll
+C:\Users\Eng AbuFiras\Desktop\code Academy\Coffe Order Menu\Coffe Order Menu-sol\Coffe Order Menu\obj\Debug\net6.0\Coffe Order Menu.pdb
+C:\Users\Eng AbuFiras\Desktop\code Academy\Coffe Order Menu\Coffe Order Menu-sol\Coffe Order Menu\obj\Debug\net6.0\Coffe Order Menu.genruntimeconfig.cache
+C:\Users\Eng AbuFiras\Desktop\code Academy\Coffe Order Menu\Coffe Order Menu-sol\Coffe Order Menu\obj\Debug\net6.0\ref\Coffe Order Menu.dll
